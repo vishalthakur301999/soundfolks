@@ -1,0 +1,77 @@
+{
+  "headphones": [
+    {
+      "name": "WH-1000XM4",
+      "brand": "Sony",
+      "price": "₹24,990.00",
+      "image": "https://m.media-amazon.com/images/I/71o8Q5XJS5L._SL1500_.jpg",
+      "url": "https://www.amazon.in/Sony-WH-1000XM4-Cancelling-Headphones-Bluetooth/dp/B0863TXGM3/ref=sr_1_2?crid=38YVZQDNXKHXI&keywords=sony%2Bxm4&qid=1648066647&sprefix=sony%2Bxm%2Caps%2C285&sr=8-2&th=1",
+      "features": [
+        "Industry Leading Wireless Noise Cancellation",
+        "Bluetooth Headphones with Mic for Phone Calls",
+        "30 Hours Battery Life",
+        "Quick Charge",
+        "AUX",
+        "Touch Control and Alexa Voice Control"
+      ],
+      "id": 1
+    },
+    {
+      "name": "QuietComfort 35 II",
+      "brand": "Bose",
+      "price": "₹21,999.00",
+      "image": "https://m.media-amazon.com/images/I/81+jNVOUsJL._SL1500_.jpg",
+      "url": "https://www.amazon.in/Bose-Quiet-Comfort-Wireless-Headphone/dp/B0756CYWWD/ref=psdc_1388921031_t2_B0863TXGM3?th=1",
+      "features": [
+        "World-class noise cancellation makes quiet sound quieter and music sound better",
+        "Bluetooth Headphones with Mic for Phone Calls",
+        "20 Hours Battery Life",
+        "Volume-optimized EQ gives you balanced audio performance at any volume",
+        "AUX",
+        "Alexa Voice Control"
+      ],
+      "id": 2
+    },
+    {
+      "name": "YH-L700A",
+      "brand": "YAMAHA",
+      "price": "₹34,990.00",
+      "image": "https://m.media-amazon.com/images/I/711rclPAIFL._SL1500_.jpg",
+      "url": "https://www.amazon.in/YAMAHA-YH-L700A-Bluetooth-Headphone-Black/dp/B08QC9RB7L/ref=sr_1_7?crid=1J7314W54HR5D&keywords=bluetooth+headphones&qid=1648067901&refinements=p_85%3A10440599031&rnid=976419031&rps=1&s=electronics&sprefix=bluetoothheadphones%2Celectronics%2C195&sr=1-7",
+      "features": [
+        "3D Sound Field",
+        "Bluetooth Wireless Over Ear Headphone",
+        "Advance Noise Canceling",
+        "Ambient Sound",
+        "Listening Optimizer",
+        "Bluetooth Headphones with Mic for Phone Calls"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Los Angele",
+      "brand": "Urbanista",
+      "price": "₹24,953.00",
+      "image": "https://m.media-amazon.com/images/I/71IHMdlbg5L._SL1500_.jpg",
+      "url": "https://www.amazon.in/Urbanista-Los-Angeles-Midnight-Black/dp/B0995ZVXRF/ref=sr_1_27?crid=1J7314W54HR5D&keywords=bluetooth%2Bheadphones&qid=1648068076&refinements=p_85%3A10440599031&rnid=976419031&rps=1&s=electronics&sprefix=bluetoothheadphones%2Celectronics%2C195&sr=1-27&th=1",
+      "features": [
+        "World’s 1st Solar Powered Hybrid Wireless Headphones",
+        "Unlimited Playtime",
+        "Advanced hybrid Active Noise Cancelling",
+        "Ambient Sound",
+        "Bluetooth Headphones with Mic for Phone Calls",
+        "Software Features to Improve sound"
+      ],
+      "id": 4
+    }
+  ],
+  "messages": [
+    {
+      "name": "Vishal Thakur",
+      "email": "vishalthakur@me.com",
+      "subject": "Just Saying Hi!",
+      "message": "Hello There",
+      "id": 1
+    }
+  ]
+}
